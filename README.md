@@ -1,4 +1,4 @@
-# CP386_A4
+# CP386-A4
 Assignment 4 for CP386 - Section C, Spring 2022
 
 ## Features
