@@ -10,11 +10,10 @@ RL -> Release Memory -> Release the allocated memory of a given process
 
 Compact -> Compacts set of holes into larger hole
 
-F -> Allocate memory using first fit method
+B -> best_fit function. Allocates smallest free block that meets the requirement of requesting process
+W -> worst_fit function. Allocates a process to the block which is largest sufficient among the available blocks in the main memory
+F -> first_fit function.
 
-B -> Allocate memory using best best method
-
-W -> Allocate memory using best worst method
 
 ## Makefile
 
@@ -53,6 +52,13 @@ Requesting memory without enough space:
 
 Compacting:
 
+![image](https://user-images.githubusercontent.com/71409000/180104403-0f547e5f-587d-4a90-ac5c-e2a50a1f71e8.png)
+
+Status:
+
+![image](https://user-images.githubusercontent.com/71409000/180104568-50df4c09-bfc1-4221-9f64-6e15e259602a.png)
+
+
 
 
 
@@ -69,6 +75,8 @@ Email: jugo4860@mylaurier.ca
 
 ### Ruben Halanen
 Student ID: 180573480
+
+3rd Year CS Student
 
 Email: hala3480@mylaurier.ca
 
