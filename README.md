@@ -2,17 +2,19 @@
 Assignment 4 for CP386 - Section C, Spring 2022
 
 ## Features
-RQ - Request Memory -> Allocate memory to a requested process using first fit, best fit, or worst fit method
+RQ - Request Memory -> Allocate memory to a requested process using first fit, best fit, or worst fit method.
 
-Status -> Display which region of memory has been allocated to which process
+Status -> Display which region of memory has been allocated to which process.
 
-RL -> Release Memory -> Release the allocated memory of a given process
+RL -> Release Memory -> Release the allocated memory of a given process.
 
-Compact -> Compacts set of holes into larger hole
+Compact -> Compacts set of holes into larger hole.
 
-B -> best_fit function. Allocates smallest free block that meets the requirement of requesting process
-W -> worst_fit function. Allocates a process to the block which is largest sufficient among the available blocks in the main memory
-F -> first_fit function.
+B -> best_fit function. Allocates memory using best fit method.
+
+W -> worst_fit function. Allocates memory using worst fit method.
+
+F -> first_fit function. Allocates memory using first fit method.
 
 
 ## Makefile
