@@ -20,19 +20,29 @@ F -> first_fit function. Allocates memory using first fit method.
 ## Makefile
 
 Contents of the make file:
+
 CC = gcc
+
 CFLAGS = -std=gnu99
+
 TARGET = allocation  
+
 OBJFILES = allocation.o
+
 all: $(TARGET)
 
 allocation: allocation.c
+
 	$(CC) $(CFLAGS) -o allocation allocation.c
 	
 run: allocation
+
 	./allocation 1048576
+	
 clean:
+
 	rm -f $(OBJFILES) $(TARGET) *~ 
+	
   
 To run the code in linux, type "make run"
 
