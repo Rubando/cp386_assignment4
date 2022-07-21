@@ -72,12 +72,16 @@ Email: hala3480@mylaurier.ca
 ## Individual Contribution
 ### Ruben
 First Fit
+
 Compact
+
 Release memory
 
 ### MUHAMMAD
 Best fit
+
 Worst fit
+
 Status
 
 ## License
