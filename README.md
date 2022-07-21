@@ -70,8 +70,15 @@ Student ID: 180573480
 Email: hala3480@mylaurier.ca
 
 ## Individual Contribution
-Ruben - 
-MUHAMMAD - 
+### Ruben
+First Fit
+Compact
+Release memory
+
+### MUHAMMAD
+Best fit
+Worst fit
+Status
 
 ## License
 Copyright © 2022 MUHAMMAD RUFAID JUGOO AND RUBEN HALANEN
