@@ -95,7 +95,7 @@ Compact
 
 Release memory
 
-### MUHAMMAD
+### Muhammad
 Best fit
 
 Worst fit
