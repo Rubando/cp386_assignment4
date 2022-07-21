@@ -10,8 +10,11 @@ RL -> Release Memory -> Release the allocated memory of a given process
 
 Compact -> Compacts set of holes into larger hole
 
-B -> best_fit function. Finds smallest free 
+F -> Allocate memory using first fit method
 
+B -> Allocate memory using best best method
+
+W -> Allocate memory using best worst method
 
 ## Makefile
 
