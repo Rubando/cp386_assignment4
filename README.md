@@ -71,11 +71,6 @@ Status:
 ![image](https://user-images.githubusercontent.com/71409000/180104568-50df4c09-bfc1-4221-9f64-6e15e259602a.png)
 
 
-
-
-
-## Examples
-
 ## About Developers
 ### Muhammad Rufaid Jugoo
 
